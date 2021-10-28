@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 I'm Ohachor Victor ***(also known as OVECJOE - THE BUG)***, a Software Engineering student at ALX.
-- 🔭 I’m currently working on a **personal bank app**
+- 🔭 I’m currently working on a **Programmer's Search Engine** called ***"OPile"***
 - 🌱 I’m currently learning 
 - 🤔 I’m looking for help with C, Python and Backend Technologies.
 - 💬 Ask me about C and Python
