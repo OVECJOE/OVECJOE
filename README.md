@@ -1,13 +1,10 @@
 <img src="Screenshot_2021-10-14 CodePen - A Pen by OVECJOE.png">
 
 ### Hi there 👋
-I'm Ohachor Victor ***(also known as OVECJOE - THE BUG)***, a Software Engineering student at ALX.
+I'm Ohachor Victor ***(also known as OVECJOE - THE BUG)***, a Rookie Software Engineer.
 - 🔭 I’m currently working on a **Programmer's Search Engine** called ***"OPile"***
-- 🌱 I’m currently learning 
-- 🤔 I’m looking for help with C, Python and Backend Technologies.
-- 💬 Ask me about C and Python
 - 📫 How to reach me: ovecjoe123@gmail.com and **WhatSapp** - _+2347038992367_
-- ⚡ Fun fact: **Success** without **Sacrifice** is **Silent**; **Desire** without **Discipline** is **Dead** *!*
+- ⚡ Motto: **Success** without **Sacrifice** is **Silent**; **Desire** without **Discipline** is **Dead** *!*
 
 ### Connect with me:
 <p align="left">
