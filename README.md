@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Ohachor Victor ***(also known as OVECJOE - THE BUG)***, a frontend Web developer.
-- 🔭 I’m currently working on a **project** called ***"portCraft"***
+I'm Ohachor Victor ***(also known as OVECJOE)***, a MERN developer.
+- 🔭 I’m currently working on a number of **projects** including ***"portCraft", and "KiddiePad"***
 - 📫 How to reach me: ovecjoe123@gmail.com and **WhatSapp** - _+2347038992367_
 - ⚡ Motto: **Success** without **Sacrifice** is **Silent**; **Desire** without **Discipline** is **Dead** *!*
 
