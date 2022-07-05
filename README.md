@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ohachor Victor ***(also known as OVECJOE)***, a MERN developer.
+I'm Ohachor Victor ***(also known as OVECJOE)***, a MERN stack and Django developer. An alumnus of **ALX software engineering program** and a developer *driven by passion* for solving real world problems, ***no matter the size and complexity***.
 - 🔭 I’m currently working on a number of **projects** including ***"portCraft", and "KiddiePad"***
 - 📫 How to reach me: ovecjoe123@gmail.com and **WhatSapp** - _+2347038992367_
 - ⚡ Motto: **Success** without **Sacrifice** is **Silent**; **Desire** without **Discipline** is **Dead** *!*
