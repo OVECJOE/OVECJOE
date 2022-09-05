@@ -33,12 +33,12 @@
    - I lost interest in the project because I didn't like the UI and the project idea was not something in the line of my interest.
    - I learnt a lot about React and I learnt mostly by trial and error, and consulting articles and docs online.
    - [Live Demo](https://ovecjoe.github.io/port-craft/) ([Alternative](https://portCraft.netlify.com/))
-4. [Movie Lexicon](https://github.com/movie-lexicon) &mdash; completed :heavy_check_mark:
+4. [Movie Lexicon](https://github.com/OVECJOE/movie-lexicon) &mdash; completed :heavy_check_mark:
    - Used IMDB API here to build a simple React application where users can get info about movies. (I am not a movie fan though)
    - Spent about 3 days working on it.
    - Used React purely. No routing functionality (maybe I could add that to it :thinking:)
    - [Live Demo](https://ovecjoe.github.io/movie-lexicon/)
-5. [Tenzie Game](https://github.com/tenzie-game) &mdash; Completed :heavy_check_mark: (assisted by Scrimba course)
+5. [Tenzie Game](https://github.com/OVECJOE/tenzie-game) &mdash; Completed :heavy_check_mark: (assisted by Scrimba course)
    - This was a tutorial project from Scrimba React fundamentals crash course. I tweaked some things in it though.
    - Built using React
    - [Live Demo](https://ovecjoe.github.io/tenzie-game/)
