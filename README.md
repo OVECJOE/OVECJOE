@@ -63,7 +63,7 @@ You can view my resume [here](https://docs.google.com/document/d/1a4YnsXdZM1h8_C
 - Fullstack Web Development
 - Technical Mentoring
 - Technical Writing
-- Junior Software Engineer
+- Junior Software Engineering
 
 ## ⚡ My Quotes: 
 
