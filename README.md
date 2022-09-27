@@ -16,7 +16,7 @@
 <a href = "https://wa.link/284kgi"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"></a>
 
 ## Featured Projects :star:
-1. [Chiblogger](https://github.com/OVECJOE/chiblogger) &mdash; work in progress :construction: (private :private:)
+1. [Chiblogger](https://github.com/OVECJOE/chiblogger) &mdash; work in progress :construction: (private repo)
    - A custom health fitness blogging application built as a gift to my aunt. MVP completed and deployed.
    - Built using the MERN stack.
    - [A short video to demonstrate responsiveness and UI](https://www.awesomescreenshot.com/video/10762766?key=c0d722813449a6e3ccbb1a0c064a2f3b)
