@@ -17,10 +17,10 @@
 
 ## Featured Projects :star:
 1. [Chiblogger](https://github.com/OVECJOE/chiblogger) &mdash; work in progress :construction:
-   - A custom health fitness blogging application built as a gift to my aunt. MVP completed, but not yet deployed.
+   - A custom health fitness blogging application built as a gift to my aunt. MVP completed and deployed.
    - Built using the MERN stack.
    - [A short video to demonstrate responsiveness and UI](https://www.awesomescreenshot.com/video/10762766?key=c0d722813449a6e3ccbb1a0c064a2f3b)
-   - Live Demo | Very soon.
+   - [Live Demo](https://chiblogger.herokuapp.com/).
 2. [KiddiePad API](https://github.com/OVECJOE/kiddiepad_api) &mdash; first version deployed :shipit:
    - This was my final portfolio project at ALX Holberton. I utilized Nodejs, MongoDB, and Express.
    - I didn't know anything about these technologies at that time, but I had to learn and implement it in the project within 2 weeks.
