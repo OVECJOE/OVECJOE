@@ -16,29 +16,33 @@
 <a href = "https://wa.link/284kgi"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"></a>
 
 ## Featured Projects :star:
-1. [Chiblogger](https://github.com/OVECJOE/chiblogger) &mdash; work in progress :construction: (private repo)
+1. [Eventreatise](https://github.com/eventreatise) &mdash; work in progress 🚧
+   - An event venue/space booking web application that connects event planners or organizers to event venue managers.
+   - Built using Node.js, Express.js, EJS, MongoDB, and JS.
+   - [Video Demo](https://www.awesomescreenshot.com/video/13798231?key=578c0b71774593af9f5929f0d080373d)
+3. [Chiblogger](https://github.com/OVECJOE/chiblogger) &mdash; work in progress :construction:
    - A custom health fitness blogging application built as a gift to my aunt. MVP completed and deployed.
    - Built using the MERN stack.
    - [A short video to demonstrate responsiveness and UI](https://www.awesomescreenshot.com/video/10762766?key=c0d722813449a6e3ccbb1a0c064a2f3b)
-   - [Live Demo](https://chiblogger.herokuapp.com/).
-2. [KiddiePad API](https://github.com/OVECJOE/kiddiepad_api) &mdash; first version deployed :shipit:
+   - [Live Demo](https://chiblogger.herokuapp.com/) (The website is currently down due to Heroku new policy 🙃).
+4. [KiddiePad API](https://github.com/OVECJOE/kiddiepad_api) &mdash; first version deployed :shipit:
    - This was my final portfolio project at ALX Holberton. I utilized Nodejs, MongoDB, and Express.
    - I didn't know anything about these technologies at that time, but I had to learn and implement it in the project within 2 weeks.
    - I am proud of this project.
    - To learn more about it and its future, check out the powerpoint slides for the [pitch](https://1drv.ms/p/s!AiTanVehGkLplA52ckzzHPG8LgW7?e=egQ8UA) and the [project presentation](https://1drv.ms/p/s!AiTanVehGkLplBaplOlFmbbVBRDo?e=1jdso0).
    - [Live Demo](https://kiddiepad-api.herokuapp.com/api-docs)
-3. [portCraft](https://github.com/OVECJOE/port-craft) &mdash; abandoned :boom:
+5. [portCraft](https://github.com/OVECJOE/port-craft) &mdash; abandoned :boom:
    - A project I took up to learn more about React ecosystem, but later started becoming so big and unmaintainable.
    - I learnt more about how medium-sized React applications are structured to scale...the hard way :anger:
    - I lost interest in the project because I didn't like the UI and the project idea was not something in the line of my interest.
    - I learnt a lot about React and I learnt mostly by trial and error, and consulting articles and docs online.
    - [Live Demo](https://ovecjoe.github.io/port-craft/) ([Alternative](https://portCraft.netlify.com/))
-4. [Movie Lexicon](https://github.com/OVECJOE/movie-lexicon) &mdash; completed :heavy_check_mark:
+6. [Movie Lexicon](https://github.com/OVECJOE/movie-lexicon) &mdash; completed :heavy_check_mark:
    - Used IMDB API here to build a simple React application where users can get info about movies. (I am not a movie fan though)
    - Spent about 3 days working on it.
    - Used React purely. No routing functionality (maybe I could add that to it :thinking:)
    - [Live Demo](https://ovecjoe.github.io/movie-lexicon/)
-5. [Tenzie Game](https://github.com/OVECJOE/tenzie-game) &mdash; Completed :heavy_check_mark: (assisted by Scrimba course)
+7. [Tenzie Game](https://github.com/OVECJOE/tenzie-game) &mdash; Completed :heavy_check_mark: (assisted by Scrimba course)
    - This was a tutorial project from Scrimba React fundamentals crash course. I tweaked some things in it though.
    - Built using React
    - [Live Demo](https://ovecjoe.github.io/tenzie-game/)
