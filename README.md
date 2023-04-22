@@ -16,7 +16,7 @@
 <a href = "https://wa.link/284kgi"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"></a>
 
 ## Featured Projects :star:
-1. [Eventreatise](https://github.com/eventreatise) &mdash; work in progress 🚧
+1. [Eventreatise](https://github.com/OVECJOE/eventreatise) &mdash; work in progress 🚧
    - An event venue/space booking web application that connects event planners or organizers to event venue managers.
    - Built using Node.js, Express.js, EJS, MongoDB, and JS.
    - [Video Demo](https://www.awesomescreenshot.com/video/13798231?key=578c0b71774593af9f5929f0d080373d)
