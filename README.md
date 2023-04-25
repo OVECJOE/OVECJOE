@@ -20,17 +20,18 @@
    - An event venue/space booking web application that connects event planners or organizers to event venue managers.
    - Built using Node.js, Express.js, EJS, MongoDB, and JS.
    - [Video Demo](https://www.awesomescreenshot.com/video/13798231?key=578c0b71774593af9f5929f0d080373d)
+   - [Live Demo](https://eventreatise-agx8.onrender.com)
 3. [Chiblogger](https://github.com/OVECJOE/chiblogger) &mdash; work in progress :construction:
    - A custom health fitness blogging application built as a gift to my aunt. MVP completed and deployed.
    - Built using the MERN stack.
    - [A short video to demonstrate responsiveness and UI](https://www.awesomescreenshot.com/video/10762766?key=c0d722813449a6e3ccbb1a0c064a2f3b)
-   - [Live Demo](https://chiblogger.herokuapp.com/) (The website is currently down due to Heroku new policy 🙃).
+   - [Live Demo](https://chiblogger.onrender.com/).
 4. [KiddiePad API](https://github.com/OVECJOE/kiddiepad_api) &mdash; first version deployed :shipit:
    - This was my final portfolio project at ALX Holberton. I utilized Nodejs, MongoDB, and Express.
    - I didn't know anything about these technologies at that time, but I had to learn and implement it in the project within 2 weeks.
    - I am proud of this project.
    - To learn more about it and its future, check out the powerpoint slides for the [pitch](https://1drv.ms/p/s!AiTanVehGkLplA52ckzzHPG8LgW7?e=egQ8UA) and the [project presentation](https://1drv.ms/p/s!AiTanVehGkLplBaplOlFmbbVBRDo?e=1jdso0).
-   - [Live Demo](https://kiddiepad-api.herokuapp.com/api-docs)
+   - [Live Demo](https://kiddiepad-api.onrender.com/)
 5. [portCraft](https://github.com/OVECJOE/port-craft) &mdash; abandoned :boom:
    - A project I took up to learn more about React ecosystem, but later started becoming so big and unmaintainable.
    - I learnt more about how medium-sized React applications are structured to scale...the hard way :anger:
@@ -53,7 +54,7 @@
 - Laziness on my part :laughing:. Kidding though, but there are lots of optimizations and refactoring that need to be done to these repositories and this will take a while.
 
 ## My Resume :page_with_curl:
-You can view my resume [here](https://docs.google.com/document/d/1a4YnsXdZM1h8_CYF0ixSAlYLIjlJ-QQFJvNzgH92R20/edit?usp=sharing). My resume contains a little more information about me.
+You can view my resume [here](./my_resume.pdf). My resume contains a little more information about me.
 
 ### Feel free to stick your head around into my repositories. There are tons of stuffs I have done in them.
 
