@@ -54,7 +54,7 @@
 - Laziness on my part :laughing:. Kidding though, but there are lots of optimizations and refactoring that need to be done to these repositories and this will take a while.
 
 ## My Resume :page_with_curl:
-You can view my resume [here](./My Resume.pdf). My resume contains a little more information about me.
+You can view my resume [here](./my_resume.pdf). My resume contains a little more information about me.
 
 ### Feel free to stick your head around into my repositories. There are tons of stuffs I have done in them.
 
