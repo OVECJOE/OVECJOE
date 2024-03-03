@@ -39,7 +39,7 @@ Project Name | Description | Technologies | Open Source | My Role
 Project Name | Description | Technologies | Open Source | My Role
 ------------ | ----------- | ------------ | ----------- | -------
 **[PoetPiece](https:://ovecjoe.pythonanywhere.com/)** | A web application where I write and share my poems or poetic resources. | Python, Flask, JavaScript | False | Owner
-**Sermonie** | A WordPress Plugin that offers a responsive admin page for seamlessly adding sermons through a custom POST type. Additionally, it facilitates the viewing and searching of sermons. The plugin also includes a shortcode, simplifying the process of adding an audio player for a sermon directly onto your WordPress page. | PHP, WordPress, HTML5/CSS3, JavaScript | False | Freelancer
+**Sermonie** | A WordPress Plugin that offers a responsive admin page for seamlessly adding sermons through a custom POST type. Additionally, it facilitates the viewing and searching of sermons. The plugin also includes a shortcode, simplifying the process of adding an audio player for a sermon directly onto your WordPress page. It also provides a custom TinyMCE button that enables you to add a sermon's shortcode directly into your post. | PHP, WordPress, HTML5/CSS3, JavaScript, jQuery | False | Freelancer
 
 > Feel free to explore my public repositories. Although many of them are currently undocumented, I am actively working on enhancing the viewing experience by adding READMEs, refactoring code, introducing unit tests for those lacking them, and implementing various improvements.
 
