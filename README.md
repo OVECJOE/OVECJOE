@@ -45,8 +45,18 @@ Project Name | Description | Technologies | Open Source | My Role
 
 ## My Quotes⚡ 
 
-> **Success** without **Sacrifice** is **Silent**; **Desire** without **Discipline** is **Dead** *!*
-> This **bug concept** is just a mindset; When a **code snippet bugs you**, **debug** your mindset.
+- **Success** without **Sacrifice** is **Silent**; **Desire** without **Discipline** is **Dead** *!*
+
+- This **bug concept** is just a mindset; When a **code snippet bugs you**, **debug** your mindset.
+
+## Miscellaneous 📐
+
+- **Currently Learning**: C#, Databases, and Computer Systems.
+- **Most Favorite Technology**: PostgreSQL.
+- **Major 2024 Goals**: Start my first fiction writing project and become a DAD (Desktop Application Developer).
+- **Hobbies**: Poetry and Research
+- **5 technologies I use daily**: JavaScript/TypeScript, PHP, WordPress, Vuejs, React
+- **One fun fact**: I find it difficult to perceive facts as humorous.
 
 ## Github Stats 🔥
 
