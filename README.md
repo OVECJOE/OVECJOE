@@ -55,8 +55,8 @@ Project Name | Description | Technologies | Open Source | My Role
 - **Most Favorite Technology**: PostgreSQL.
 - **Major 2024 Goals**: Start my first fiction writing project and become a DAD (Desktop Application Developer).
 - **Hobbies**: Poetry and Research
-- **5 technologies I use daily**: JavaScript/TypeScript, PHP, WordPress, Vuejs, React
-- **One fun fact**: I find it difficult to perceive facts as humorous.
+- **5 Technologies I Use Daily**: JavaScript/TypeScript, PHP, WordPress, Vuejs, React
+- **One Fun Fact**: I find it difficult to perceive facts as humorous.
 
 ## Github Stats 🔥
 
