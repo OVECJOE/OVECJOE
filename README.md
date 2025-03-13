@@ -25,7 +25,7 @@ I am also a CS student at [IU International University of Applied Sciences](http
 
 ## Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OVECJOE&theme=highcontrast)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OVECJOE&theme=highcontrast)
 
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="OVECJOE's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVECJOE&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&bg_color=0A524E" /></a>
 
