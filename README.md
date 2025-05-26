@@ -2,7 +2,7 @@
 
 I love building scalable and well-architected software that works seamlessly and addresses the needs of the intended audience. My love for learning and solving problems drives me everyday to be better at what I do and achieve excellence in my work. Within the past two years, I have worked with technologies revolving around PHP, JavaScript, Python, and SQL, including (but not limited to) WordPress, React, Nodejs, FastAPI, and PostgreSQL.
 
-I am not a fan of any technology and see technologies as tools. I utilize a product-driven approach to development, where I employ the technologies that best suit the problem I am trying to solve. I am also ridiculously fast learner.
+I am not a fan of any technology and see technologies as tools. I utilize a product-driven approach to development, where I employ the technologies that best suit the problem I am trying to solve. I am also a ridiculously fast learner.
 
 Aside software engineering,I love writing. With a storytelling and poetic approach to writing, I create technical content with a voice and tone that keeps readers engaged and drives understanding.
 
