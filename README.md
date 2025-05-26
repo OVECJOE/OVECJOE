@@ -4,9 +4,9 @@ I love building scalable and well-architected software that works seamlessly and
 
 I am not a fan of any technology and see technologies as tools. I utilize a product-driven approach to development, where I employ the technologies that best suit the problem I am trying to solve. I am also a ridiculously fast learner.
 
-Aside software engineering,I love writing. With a storytelling and poetic approach to writing, I create technical content with a voice and tone that keeps readers engaged and drives understanding.
+Aside software engineering, I love writing. With a storytelling and poetic approach to writing, I create technical content with a voice and tone that keeps readers engaged and drives understanding.
 
-I am also a CS student at [IU International University of Applied Sciences](https://iu.org) and a [Kibo](https://kibo.school) alumnus.
+I am also a CS student of [IU International University of Applied Sciences](https://iu.org) and a [Kibo](https://kibo.school) alumnus.
 
 ## Quotes I Invented
 
