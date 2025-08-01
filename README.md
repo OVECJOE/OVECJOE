@@ -19,7 +19,7 @@ I am also a CS student of [IU International University of Applied Sciences](http
 - **Currently Learning**: Java, Data Engineering.
 - **Most Favorite Technology**: While I don't have a particular favorite, I always feel like a superhero when I use PostgreSQL.
 - **Hobbies**: Poetry, Research, and Writing
-- **Technologies I Currently Use Regularly (_in the past 6 months_)**: TypeScript, Feathersjs, NextJS, MongoDB, Python, FastAPI, Redis, Docker.
+- **Technologies I Currently Use Regularly (_in the past 6 months_)**: Feathersjs, NextJS, MongoDB, PostgreSQL, FastAPI, Redis, Docker.
 - **One Fun Fact About Me**: Friends sometimes call me a clown and strangers sometimes call me a ghost.
 
 ## Github Stats
