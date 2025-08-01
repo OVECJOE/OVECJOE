@@ -10,7 +10,7 @@ I am also a CS student of [IU International University of Applied Sciences](http
 
 ## Quotes I Invented
 
-- **Success** without **Sacrifices** is **Silent**; **Dreams** without **Discipline** is **Dead***!*
+- **Success** without **Sacrifices** is **Silent**; **Dreams** without **Discipline** is **Dead**!
 
 - This **bug concept** is just a mindset; When a **code snippet bugs you**, **debug** your mindset.
 
