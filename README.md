@@ -22,7 +22,9 @@ I am also a CS student of [IU International University of Applied Sciences](http
 - **Technologies I Currently Use Regularly (_in the past 6 months_)**: Feathersjs, NextJS, MongoDB, PostgreSQL, FastAPI, Redis, Docker.
 - **One Fun Fact About Me**: Friends sometimes call me a clown and strangers sometimes call me a ghost.
 
+<!--
 <a href="https://www.teacheron.com/tutor/bZvX?r=bZvX" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/recommendedOn.png" style="width: 120px !important; height: 52px !important"></a>
+!-->
 
 ## Github Stats
 
