@@ -16,7 +16,7 @@ I am also a CS student of [IU International University of Applied Sciences](http
 
 ## Highlights
 
-- **Currently Learning**: Maths, ML Engineering.
+- **Currently Learning**: Maths, ML Engineering, Smart Contract Engineering.
 - **Most Favorite Technology**: While I don't have a particular favorite, I always feel like a superhero when I use PostgreSQL.
 - **Hobbies**: Poetry, Research, and Writing
 - **Technologies I Currently Use Regularly (_in the past 6 months_)**: Feathersjs, NextJS, MongoDB, PostgreSQL, FastAPI, Redis, Docker.
