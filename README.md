@@ -15,9 +15,9 @@ I am a Computer Science student at [IU International University of Applied Scien
 
 ## Highlights
 
-- **Currently Learning**: Mathematics (specifically Graph Theory) and Smart Contract Engineering (EVM bytecode).
+- **Currently Learning**: Low-level stuff and Smart Contract Engineering.
 - **Favorite Technology**: While I try not to play favorites, writing raw PostgreSQL queries always makes me feel like a superhero.
-- **Hobbies**: Poetry, Research, and Writing.
+- **Hobbies**: Chess, Research, and Writing.
 - **Technologies I Use Regularly**: Astro, NextJS, MongoDB, PostgreSQL, FastAPI, Redis, Docker, and integrating tools like Paystack.
 - **One Fun Fact About Me**: Friends sometimes call me a clown; strangers sometimes call me a ghost.
 
