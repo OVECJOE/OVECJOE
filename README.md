@@ -1,30 +1,43 @@
 ## Who am I?
 
-I build scalable, well-architected software focused on seamless user experiences and solving real-world problems. My drive comes from a deep curiosity and a commitment to engineering excellence. Over the last two years, I’ve worked across the stack with PHP, JavaScript, Python, and SQL, leveraging tools like React, Node.js, FastAPI, and PostgreSQL.
+Hi, I'm Victor Ohachor, a software engineer based in Nigeria, with 3+ years of experience across early-stage startups and agencies. What I have consistently done is take on messy, real-world problems and own them end-to-end, from the client's first ask to a working product.
 
-I am technology-agnostic—I view frameworks and languages as tools rather than religions. By taking a product-driven approach, I always choose the tech stack that best solves the problem at hand. I am also a ridiculously fast learner.
+For example, I worked with an ed-tech non-profit that trains students, including those who are visually impaired, in STEM and Robotics, to build a reporting engine. It involved digging into their existing process, understanding the data they had available, cleaning and validating their data pipeline, and building robust admin and school dashboards to automate their reporting workflow.
 
-Beyond code, I’m a writer at heart. I blend storytelling with technical writing to create engaging, accessible content that drives understanding. Currently, I'm channeling this storytelling approach into drafting my upcoming book, *Distract and Capture*.
+I mostly work across **Next.js, FastAPI, PostgreSQL, and Docker**, with some Solidity and PL/pgSQL when a problem calls for it. I care a lot about privacy-respecting, self-hosted infrastructure over third-party dependence.
 
-I am a Computer Science student at [IU International University of Applied Sciences](https://iu.org) and a [Kibo](https://kibo.school) alumnus.
+## Things I've built
+
+- **[getcleanroom.xyz](https://getcleanroom.xyz)**: Disposable, anonymous cloud browser sessions for accessing onion sites, paid for in Monero. I originally scoped this as burner Android phone rentals, then pivoted to a self-hosted browser-in-container model (Cromite via KasmVNC) after hitting virtualization limits on the VPS. Built on a FastAPI payment/queue/JWT stack.
+- **[llmrank.getcleanroom.xyz](https://llmrank.getcleanroom.xyz)**: Lets a solopreneur or brand see how they rank and get mentioned across LLMs like ChatGPT, Gemini, Llama, and Claude, using Next.js, FastAPI, and PostgreSQL with hybrid AI/user-generated query tracking and historical scan comparisons.
+- **[trice.getcleanroom.xyz](https://trice.getcleanroom.xyz)**: For any software professional who wants to revisit their fundamentals in 15 minutes a day.
+- **[2bottles.xyz](https://2bottles.xyz)**: Helps two people plan a physical meetup from one shared place.
+- **Shopke**: A Pan-African multi-tenant marketplace with an unconventional architecture. The entire backend lived in PL/pgSQL across PostgreSQL, PostgREST, and Nginx, with no traditional app server, handling multi-tenancy via subdomains, JWT auth with row-level security, and merchant analytics. *(Codebase lost to a laptop crash; rebuild pending.)*
+- **Gridee**: A decentralized solar energy access platform for Nigerian landlords and tenants, built with a team of 3 classmates as my Web3Bridge capstone. It supports NGN payments, ERC-20 energy credits, and WhatsApp/USSD interfaces for users without smartphones.
 
 ## Personal Philosophy
 
-- **Success** without **Sacrifices** is **Silent**; **Dreams** without **Discipline** are **Dead**!
-- This **bug concept** is just a mindset; when a **code snippet bugs you**, **debug** your mindset.
+**Success** without **Sacrifice** is **Silent**; **Dreams** without **Discipline** are **Dead**!
 
 ## Highlights
 
-- **Currently Learning**: Low-level stuff and Smart Contract Engineering.
-- **Favorite Technology**: While I try not to play favorites, writing raw PostgreSQL queries always makes me feel like a superhero.
 - **Hobbies**: Chess, Research, and Writing.
-- **Technologies I Use Regularly**: Astro, NextJS, MongoDB, PostgreSQL, FastAPI, Redis, Docker, and integrating tools like Paystack.
-- **One Fun Fact About Me**: Friends sometimes call me a clown; strangers sometimes call me a ghost.
 
-## Github Stats
+## Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Elysia](https://img.shields.io/badge/Elysia-8B5CF6?style=flat-square&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=OVECJOE)](https://git.io/streak-stats)
-<br>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="OVECJOE's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVECJOE&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&bg_color=0A524E" /></a>
-<br>
-![OVECJOE's GitHub stats](https://github-readme-stats.vercel.app/api?username=OVECJOE&show_icons=true&theme=highcontrast)
