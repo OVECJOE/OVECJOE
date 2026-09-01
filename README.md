@@ -9,10 +9,9 @@ I mostly work across **Next.js, FastAPI, PostgreSQL, and Docker**, with some Sol
 ## Things I've built
 
 - **[getcleanroom.xyz](https://getcleanroom.xyz)**: Disposable, anonymous cloud browser sessions for accessing onion sites, paid for in Monero. I originally scoped this as burner Android phone rentals, then pivoted to a self-hosted browser-in-container model (Cromite via KasmVNC) after hitting virtualization limits on the VPS. Built on a FastAPI payment/queue/JWT stack.
-- **[llmrank.getcleanroom.xyz](https://llmrank.getcleanroom.xyz)**: Lets a solopreneur or brand see how they rank and get mentioned across LLMs like ChatGPT, Gemini, Llama, and Claude, using Next.js, FastAPI, and PostgreSQL with hybrid AI/user-generated query tracking and historical scan comparisons.
-- **[trice.getcleanroom.xyz](https://trice.getcleanroom.xyz)**: For any software professional who wants to revisit their fundamentals in 15 minutes a day.
+- **[LLMRanked](https://llmranked.org)**: Built an AI visibility intelligence system
+- **[Trice](https://github.com/getcleanroom-xyz/trice)**: For any software professional who wants to revisit their fundamentals in 15 minutes a day.
 - **[2bottles.xyz](https://2bottles.xyz)**: Helps two people plan a physical meetup from one shared place.
-- **Shopke**: A Pan-African multi-tenant marketplace with an unconventional architecture. The entire backend lived in PL/pgSQL across PostgreSQL, PostgREST, and Nginx, with no traditional app server, handling multi-tenancy via subdomains, JWT auth with row-level security, and merchant analytics. *(Codebase lost to a laptop crash; rebuild pending.)*
 - **Gridee**: A decentralized solar energy access platform for Nigerian landlords and tenants, built with a team of 3 classmates as my Web3Bridge capstone. It supports NGN payments, ERC-20 energy credits, and WhatsApp/USSD interfaces for users without smartphones.
 
 ## Personal Philosophy
