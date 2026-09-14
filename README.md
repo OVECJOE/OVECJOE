@@ -4,7 +4,7 @@ Hi, I'm Victor Ohachor, a software engineer based in Nigeria, with 3+ years of e
 
 For example, I worked with an ed-tech non-profit that trains students, including those who are visually impaired, in STEM and Robotics, to build a reporting engine. It involved digging into their existing process, understanding the data they had available, cleaning and validating their data pipeline, and building robust admin and school dashboards to automate their reporting workflow.
 
-I mostly work across **Next.js, FastAPI, PostgreSQL, and Docker**, with some Solidity and PL/pgSQL when a problem calls for it. I care a lot about privacy-respecting, self-hosted infrastructure over third-party dependence.
+I work across **Next.js, Nodejs, TypeScript, Python, FastAPI, PostgreSQL, Docker, and cloud infrastructure**.
 
 ## Things I've built
 
