@@ -12,7 +12,7 @@ I work across **Next.js, Nodejs, TypeScript, Python, FastAPI, PostgreSQL, Docker
 - **[getcleanroom.xyz](https://getcleanroom.xyz)**: Disposable, anonymous cloud browser sessions for accessing onion sites, paid for in Monero. I originally scoped this as burner Android phone rentals, then pivoted to a self-hosted browser-in-container model (Cromite via KasmVNC) after hitting virtualization limits on the VPS. Built on a FastAPI payment/queue/JWT stack.
 - **[LLMRanked](https://llmranked.org)**: Built an AI visibility intelligence system that enable brands understand how visible they are in AI responses (shut this down to work with [Xafarii](https://www.linkedin.com/company/xafarii) on visibility intelligence).
 - **[turls](https://github.com/turls)**: Shadcn for AI agents. Easily install only the tools you need for your agentic system directly into your codebase.
-- **[Trice](https://github.com/getcleanroom-xyz/trice)**: I built Trice to dedicate 15 minutes to my fundamentals daily. It grew to something others began to rely on. I had to shut it down to work on [LLMRanked](https://llmranked.org).
+- **[Trice](https://github.com/getcleanroom-xyz/trice)**: I built Trice to dedicate 15 minutes to my fundamentals daily. It grew into something others began to rely on. I had to shut it down to work on [LLMRanked](https://llmranked.org).
 - **[2bottles.xyz](https://2bottles.xyz)**: Helps two people plan a physical meetup from one shared place.
 - **Gridee**: A decentralized solar energy access platform for Nigerian landlords and tenants, built with a team of 3 classmates as my Web3Bridge capstone. It supports NGN payments, ERC-20 energy credits, and WhatsApp/USSD interfaces for users without smartphones.
 
