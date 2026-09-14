@@ -8,8 +8,9 @@ I mostly work across **Next.js, FastAPI, PostgreSQL, and Docker**, with some Sol
 
 ## Things I've built
 
+- [Unclaimed](https://www.unclaimedbyai.com): Discover names for your idea (WIP).
 - **[getcleanroom.xyz](https://getcleanroom.xyz)**: Disposable, anonymous cloud browser sessions for accessing onion sites, paid for in Monero. I originally scoped this as burner Android phone rentals, then pivoted to a self-hosted browser-in-container model (Cromite via KasmVNC) after hitting virtualization limits on the VPS. Built on a FastAPI payment/queue/JWT stack.
-- **[LLMRanked](https://llmranked.org)**: Built an AI visibility intelligence system
+- **[LLMRanked](https://llmranked.org)**: Built an AI visibility intelligence system (shut this down to work with [Xafarii](https://www.linkedin.com/company/xafarii) on visibility intelligence)
 - **[Trice](https://github.com/getcleanroom-xyz/trice)**: For any software professional who wants to revisit their fundamentals in 15 minutes a day.
 - **[2bottles.xyz](https://2bottles.xyz)**: Helps two people plan a physical meetup from one shared place.
 - **Gridee**: A decentralized solar energy access platform for Nigerian landlords and tenants, built with a team of 3 classmates as my Web3Bridge capstone. It supports NGN payments, ERC-20 energy credits, and WhatsApp/USSD interfaces for users without smartphones.
@@ -20,7 +21,7 @@ I mostly work across **Next.js, FastAPI, PostgreSQL, and Docker**, with some Sol
 
 ## Highlights
 
-- **Hobbies**: Chess, Research, and Writing.
+- **Hobbies**: Chess and Writing.
 
 ## Tech Stack
 
