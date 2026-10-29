@@ -8,7 +8,7 @@ I work across **Next.js, Nodejs, TypeScript, Python, FastAPI, PostgreSQL, Docker
 
 ## Things I've built
 
-- **[Unclaimed](https://www.unclaimedbyai.com)**: Discover names for your idea (WIP).
+- **[Unclaimed](https://www.unclaimedbyai.com)**: Discover names for your ideas or ideas for your goals/vision.
 - **[getcleanroom.xyz](https://getcleanroom.xyz)**: Disposable, anonymous cloud browser sessions for accessing onion sites, paid for in Monero. I originally scoped this as burner Android phone rentals, then pivoted to a self-hosted browser-in-container model (Cromite via KasmVNC) after hitting virtualization limits on the VPS. Built on a FastAPI payment/queue/JWT stack.
 - **[LLMRanked](https://llmranked.org)**: Built an AI visibility intelligence system that enable brands understand how visible they are in AI responses (shut this down to work with [Xafarii](https://www.linkedin.com/company/xafarii) on visibility intelligence).
 - **[turls](https://github.com/turls)**: Shadcn for AI agents. Easily install only the tools you need for your agentic system directly into your codebase.
